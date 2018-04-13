@@ -1,0 +1,9 @@
+.container{
+  background-color: coral;
+  max-width: 700px;
+  float: center;
+ 
+  }
+.made{
+  font-size: 200%;
+}
